@@ -1,0 +1,108 @@
+https://code.visualstudio.com/download 
+
+https://developers.line.biz/flex-simulator/
+
+ข้อความหลัก_QRP_โปรโมชั่น100%,โปรโมชั่น50%,โปรโมชั่น20%,โปรโมชั่น10%
+
+https://drive.google.com/file/d/1URnjWZcFrnBhelXL0RK1VZwsbm6KLDKu/view?usp=sharing
+
+https://github.com/
+
+
+ขั้นตอนแรก 
+1. เอาโค้ตตัวบนสุดไปดาวโหลด(ผ่าน window)
+2.นำรูปเครดิฟรีที่ต้องการให้แชร์ นำไปฝาก (Google)
+
+
+3.เปิดโปรแกรม VsCrod
+3.1} นำลิ้งค์รูปภาพที่ฝากไว้ไป ใส่ในตัวโปรแกรม บรรทัดที่   32*34*62
+
+4.แก้ไขค้อนเท้น 6*55*80
+
+5.ไปก็อบลิ้งค์ไลน์แอด มาใส่ 68*89*203*206*217*219
+
+6.ก็อบลิ้งค์ บรรทัดที่ 2 ไปเปิดในโครม สร้างช่อง
+
+7.สร้าง LIff ไอดี
+
+8.นำลิ้งค์ริฟไอดีไปใส่หน้าแอป บรรทัดที่ 258 (พร้อมเซฟ)
+
+9.สร้างโครมใหม่ สมัคร Gmail เพื่อส่ง OTP
+
+10.นำลิ้งค์บรรทัดที่ 4 ไปใส่ในโครม(แยกโครมใหม่) Gibhub
+
+11. คลิก Continus  เสร็จแล้ว คลิกที่โค้ต ด้านบนขวามือ 
+
+12. เพิ่มไฟล์ Index และ  LICENSE (เสร็ต)
+
+13. คลิก seting เปลี่ยนจาก none เป็น main พร้อมก็อบลิ้งค์ ไปใส่หน้า Channel 
+
+14.แก้ URL LIFF (เอาลิ้งค์ที่ก็อบ) พร้อมเปิด แชร์ 
+
+
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/b6dc8598965f3acfed468b0a59d24c8a.png",
+    "margin": "none",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รับทุนฟรี 50.- บาท",
+        "margin": "none",
+        "size": "xl",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "ไม่ต้องฝากไม่ต้องรอไม่ต้องลุ้น",
+        "margin": "sm",
+        "size": "sm"
+      },
+      {
+        "type": "text",
+        "text": "รับได้ทันที!! 50.-บาท"
+      }
+    ],
+    "flex": 500
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "คลิกรับทุนฟรี",
+          "uri": "https://lin.ee/RTyHatZ"
+        },
+        "style": "primary",
+        "position": "relative",
+        "margin": "sm",
+        "height": "sm",
+        "color": "#b22222"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": []
+      }
+    ]
+  },
+  "styles": {
+    "body": {
+      "separator": false
+    }
+  }
+}
+
+
+
+
